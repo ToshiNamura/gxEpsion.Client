@@ -1,7 +1,7 @@
 # gxEpsion Client
-![logo](/assets/logo.ico)
+
 ## Use mods
-<!-- | mod_name | _v.version_ | [GitHub]() | [Modrinth]() | -->
+<!-- | mod_name | _v._ | [GitHub]() | [Modrinth]() | -->
 | Mod name | Version | Source | Download |
 | -------- | ------- | ------ | -------- |
 | Fabric API | _v.0.92.2_ | [GitHub](https://github.com/FabricMC/fabric) | [Modrinth](https://modrinth.com/mod/fabric-api/version/0.92.2+1.20.1) |
@@ -29,3 +29,8 @@
 | YetAnotherConfigLib | _v.3.1.0_ | [GitHub](https://github.com/isXander/YetAnotherConfigLib) | [Modrinth](https://modrinth.com/mod/yacl/version/3.1.0+1.20-fabric) |
 | Debugify | _v.2.0_ | [GitHub](https://github.com/isXander/Debugify/) | [Modrinth](https://modrinth.com/mod/debugify/version/1.20.1+2.0) |
 | BetterF3 | _v.7.0.2_ | [GitHub](https://github.com/TreyRuffy/BetterF3) | [Modrinth](https://modrinth.com/mod/betterf3/version/7.0.2) |
+| FabricSkyboxes | _v.0.7.3_ | [GitHub](https://github.com/AMereBagatelle/fabricskyboxes) | [Modrinth](https://modrinth.com/mod/fabricskyboxes/version/mc1.20.1-0.7.3) |
+| Mouse Tweaks | _v.2.26_ | [GitHub](https://github.com/YaLTeR/MouseTweaks) | [Modrinth](https://modrinth.com/mod/mouse-tweaks/version/1.20-2.26-fabric) |
+| Shulker Box Tooltip | _v.4.0.4_ | [GitHub](https://github.com/MisterPeModder/ShulkerBoxTooltip) | [Modrinth](https://modrinth.com/mod/shulkerboxtooltip/version/4.0.4+1.20.1-fabric) |
+| Bookshelf | _v.20.2.13_ | [GitHub](https://github.com/Darkhax-Minecraft/Bookshelf) | [Modrinth](https://modrinth.com/mod/bookshelf-lib/version/CBnLZwRS) |
+| Enchantment Descriptions | _v.17.1.18_ | [GitHub](https://github.com/Darkhax-Minecraft/Enchantment-Descriptions) | [Modrinth](https://modrinth.com/mod/enchantment-descriptions/version/G4P1MSAp) |

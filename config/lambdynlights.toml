@@ -25,6 +25,7 @@ mode = "fancy"
 				horse = true
 				iron_golem = true
 				item = true
+				chicken = true
 				villager = true
 				cat = true
 				glow_squid = true
