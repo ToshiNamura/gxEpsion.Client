@@ -34,3 +34,14 @@
 | Shulker Box Tooltip | _v.4.0.4_ | [GitHub](https://github.com/MisterPeModder/ShulkerBoxTooltip) | [Modrinth](https://modrinth.com/mod/shulkerboxtooltip/version/4.0.4+1.20.1-fabric) |
 | Bookshelf | _v.20.2.13_ | [GitHub](https://github.com/Darkhax-Minecraft/Bookshelf) | [Modrinth](https://modrinth.com/mod/bookshelf-lib/version/CBnLZwRS) |
 | Enchantment Descriptions | _v.17.1.18_ | [GitHub](https://github.com/Darkhax-Minecraft/Enchantment-Descriptions) | [Modrinth](https://modrinth.com/mod/enchantment-descriptions/version/G4P1MSAp) |
+| TCDCommons API | _v.3.12.3_ | [GitHub](https://github.com/TheCSMods/mc-tcdcommons) | [Modrinth](https://modrinth.com/mod/tcdcommons/version/3.12.3+fabric-1.20.1) |
+| Better Statistics Screen | _v.3.12.6_ | [GitHub](https://github.com/TheCSMods/mc-better-stats) | [Modrinth](https://modrinth.com/mod/better-stats/version/3.12.6+fabric-1.20.1) |
+| Remove Reloading Screen | _v.4.0.6.1_ | [GitHub](https://github.com/dima-dencep/rrls) | [Modrinth](https://modrinth.com/mod/rrls/version/4.0.6.1+mc1.20.1-fabric) |
+| JourneyMap | _v.5.10.2_ | [GitHub](https://github.com/TeamJM/journeymap) | [Modrinth](https://modrinth.com/mod/journeymap/version/1.20.1-5.10.2-fabric) |
+| spark | _v.1.10.53_ | [GitHub](https://github.com/lucko/spark) | [Modrinth](https://modrinth.com/mod/spark/version/1.10.53-fabric) |
+| ToolTipFix | _v.1.1.1_ | [GitHub](https://github.com/kyrptonaught/tooltipfix) | [Modrinth](https://modrinth.com/mod/tooltipfix/version/1.1.1-1.20) |
+| Chunky | _v.1.3.146_ | [GitHub](https://github.com/pop4959/Chunky) | [Modrinth](https://modrinth.com/plugin/chunky/version/NHWYq9at) |
+| fast-ip-ping | _v.1.0.4_ | [GitHub](https://github.com/Fallen-Breath/fast-ip-ping) | [Modrinth](https://modrinth.com/mod/fast-ip-ping/version/v1.0.4-mc1.20.4-fabric) |
+| FeyTweaks | _v.1.2.7_ | [GitHub](https://github.com/feytox/FeyTweaks) | [Modrinth](https://modrinth.com/mod/feytweaks/version/1.20-1.2.7) |
+| SuperMartijn642's Config Lib | _v.1.1.8a_ | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib) | [Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib/version/1.1.8a-fabric-mc1.20.1) |
+| Durability Tooltip | _v.1.1.5_ | [GitHub](https://github.com/SuperMartijn642/DurabilityTooltip) | [Modrinth](https://modrinth.com/mod/durability-tooltip/version/1.1.5-fabric-mc1.20) |

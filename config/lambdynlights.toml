@@ -22,16 +22,22 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				horse = true
-				iron_golem = true
 				item = true
 				chicken = true
 				villager = true
-				cat = true
-				glow_squid = true
-				glow_item_frame = false
 				cow = true
-				player = true
 				slime = true
 				pig = true
+				horse = true
+				iron_golem = true
+				skeleton = true
+				bat = true
+				cat = true
+				zombie = true
+				glow_squid = true
+				glow_item_frame = false
+				spider = true
+				creeper = true
+				player = true
+				enderman = true
 
