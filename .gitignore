@@ -15,13 +15,12 @@
 
 ###
 /.fabric
-
-### 
 /logs
-
-### 
 /saves
+/data
 
 ### 
+/irisUpdateInfo.json
 /servers.dat
 /servers.dat_old
+/usercache.json
