@@ -12,3 +12,16 @@
 
 ###
 /.build
+
+###
+/.fabric
+
+### 
+/logs
+
+### 
+/saves
+
+### 
+/servers.dat
+/servers.dat_old
