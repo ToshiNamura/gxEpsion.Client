@@ -51,3 +51,8 @@
 | Jade Addons | _v.5.2.6_ | [GitHub](https://github.com/Snownee/JadeAddonsFabric) | [Modrinth](https://modrinth.com/mod/jade-addons-fabric/version/5.2.6) |
 | Status Effect Bars | _v.1.0.3_ | [GitHub](https://github.com/A5b84/status-effect-bars) | [Modrinth](https://modrinth.com/mod/status-effect-bars/version/1.0.3) |
 | Just Enough Breeding | _v.1.4.0_ | [GitHub](https://github.com/Christofmeg/JustEnoughBreeding) | [Modrinth](https://modrinth.com/mod/justenoughbreeding/version/KYWQEEOk) |
+| BCLib | _v.3.0.14_ | [GitHub](https://github.com/quiqueck/BCLib/) | [Modrinth](https://modrinth.com/mod/bclib/version/3.0.14) |
+| BetterEnd | _v.4.0.11_ | [GitHub](https://github.com/quiqueck/BetterEnd) | [Modrinth](https://modrinth.com/mod/betterend/version/4.0.11) |
+| BetterNether | _v.9.0.10_ | [GitHub](https://github.com/quiqueck/BetterNether) | [Modrinth](https://modrinth.com/mod/betternether/version/9.0.10) |
+| Farmer's Delight Refabricated | _v.2.1.6_ | [GitHub](https://github.com/MehVahdJukaar/FarmersDelightRefabricated) | [Modrinth](https://modrinth.com/mod/farmers-delight-refabricated/version/1.20.1-2.1.6) |
+| Expanded Delight | _v.0.3.2_ | [GitHub](https://github.com/ianm1647/expandeddelight) | [Modrinth](https://modrinth.com/mod/expanded-delight/version/0.3.2-fabric) |
