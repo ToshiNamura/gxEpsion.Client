@@ -51,6 +51,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,

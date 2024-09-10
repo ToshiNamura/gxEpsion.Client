@@ -45,3 +45,9 @@
 | FeyTweaks | _v.1.2.7_ | [GitHub](https://github.com/feytox/FeyTweaks) | [Modrinth](https://modrinth.com/mod/feytweaks/version/1.20-1.2.7) |
 | SuperMartijn642's Config Lib | _v.1.1.8a_ | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib) | [Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib/version/1.1.8a-fabric-mc1.20.1) |
 | Durability Tooltip | _v.1.1.5_ | [GitHub](https://github.com/SuperMartijn642/DurabilityTooltip) | [Modrinth](https://modrinth.com/mod/durability-tooltip/version/1.1.5-fabric-mc1.20) |
+| Dark Loading Screen | _v.1.6.14_ | [GitHub](https://github.com/A5b84/dark-loading-screen) | [Modrinth](https://modrinth.com/mod/dark-loading-screen/version/1.6.14) |
+| Noxesium | _v.1.0.3_ | [GitHub](https://github.com/Noxcrew/Noxesium) | [Modrinth](https://modrinth.com/mod/noxesium/version/1.0.3) |
+| Just Enough Resources | _v.1.4.0.247_ | [GitHub](https://github.com/way2muchnoise/JustEnoughResources) | [Modrinth](https://modrinth.com/mod/just-enough-resources-jer/version/9HWvOVzO) |
+| Jade Addons | _v.5.2.6_ | [GitHub](https://github.com/Snownee/JadeAddonsFabric) | [Modrinth](https://modrinth.com/mod/jade-addons-fabric/version/5.2.6) |
+| Status Effect Bars | _v.1.0.3_ | [GitHub](https://github.com/A5b84/status-effect-bars) | [Modrinth](https://modrinth.com/mod/status-effect-bars/version/1.0.3) |
+| Just Enough Breeding | _v.1.4.0_ | [GitHub](https://github.com/Christofmeg/JustEnoughBreeding) | [Modrinth](https://modrinth.com/mod/justenoughbreeding/version/KYWQEEOk) |
