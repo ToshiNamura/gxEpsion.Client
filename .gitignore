@@ -19,9 +19,11 @@
 /saves
 /data
 /journeymap
+/crash-reports
 
 ### 
 /irisUpdateInfo.json
 /servers.dat
 /servers.dat_old
 /usercache.json
+/usernamecache.json

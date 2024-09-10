@@ -24,18 +24,13 @@
 | Continuity | _v.3.0.0_ | [GitHub](https://github.com/PepperCode1/Continuity) | [Modrinth](https://modrinth.com/mod/continuity/version/3.0.0-beta.5+1.20.1) |
 | LambDynamicLights | _v.2.3.2_ | [GitHub](https://github.com/LambdAurora/LambDynamicLights) | [Modrinth](https://modrinth.com/mod/lambdynamiclights/version/2.3.2+1.20.1) |
 | Just Enough Items | _v.15.16.1.70_ | [GitHub](https://github.com/mezz/JustEnoughItems) | [Modrinth](https://modrinth.com/mod/jei/version/15.16.1.70) |
-| Sound Physics Remastered | _v.1.4.5_ | [GitHub](https://github.com/henkelmax/sound-physics-remastered) | [Modrinth](https://modrinth.com/mod/sound-physics-remastered/version/fabric-1.20.1-1.4.5) |
 | Jade | _v.11.8.0_ | [GitHub](https://github.com/Snownee/Jade) | [Modrinth](https://modrinth.com/mod/jade/version/CciLEAMK) |
-| YetAnotherConfigLib | _v.3.1.0_ | [GitHub](https://github.com/isXander/YetAnotherConfigLib) | [Modrinth](https://modrinth.com/mod/yacl/version/3.1.0+1.20-fabric) |
-| Debugify | _v.2.0_ | [GitHub](https://github.com/isXander/Debugify/) | [Modrinth](https://modrinth.com/mod/debugify/version/1.20.1+2.0) |
 | BetterF3 | _v.7.0.2_ | [GitHub](https://github.com/TreyRuffy/BetterF3) | [Modrinth](https://modrinth.com/mod/betterf3/version/7.0.2) |
 | FabricSkyboxes | _v.0.7.3_ | [GitHub](https://github.com/AMereBagatelle/fabricskyboxes) | [Modrinth](https://modrinth.com/mod/fabricskyboxes/version/mc1.20.1-0.7.3) |
 | Mouse Tweaks | _v.2.26_ | [GitHub](https://github.com/YaLTeR/MouseTweaks) | [Modrinth](https://modrinth.com/mod/mouse-tweaks/version/1.20-2.26-fabric) |
 | Shulker Box Tooltip | _v.4.0.4_ | [GitHub](https://github.com/MisterPeModder/ShulkerBoxTooltip) | [Modrinth](https://modrinth.com/mod/shulkerboxtooltip/version/4.0.4+1.20.1-fabric) |
 | Bookshelf | _v.20.2.13_ | [GitHub](https://github.com/Darkhax-Minecraft/Bookshelf) | [Modrinth](https://modrinth.com/mod/bookshelf-lib/version/CBnLZwRS) |
 | Enchantment Descriptions | _v.17.1.18_ | [GitHub](https://github.com/Darkhax-Minecraft/Enchantment-Descriptions) | [Modrinth](https://modrinth.com/mod/enchantment-descriptions/version/G4P1MSAp) |
-| TCDCommons API | _v.3.12.3_ | [GitHub](https://github.com/TheCSMods/mc-tcdcommons) | [Modrinth](https://modrinth.com/mod/tcdcommons/version/3.12.3+fabric-1.20.1) |
-| Better Statistics Screen | _v.3.12.6_ | [GitHub](https://github.com/TheCSMods/mc-better-stats) | [Modrinth](https://modrinth.com/mod/better-stats/version/3.12.6+fabric-1.20.1) |
 | Remove Reloading Screen | _v.4.0.6.1_ | [GitHub](https://github.com/dima-dencep/rrls) | [Modrinth](https://modrinth.com/mod/rrls/version/4.0.6.1+mc1.20.1-fabric) |
 | JourneyMap | _v.5.10.2_ | [GitHub](https://github.com/TeamJM/journeymap) | [Modrinth](https://modrinth.com/mod/journeymap/version/1.20.1-5.10.2-fabric) |
 | spark | _v.1.10.53_ | [GitHub](https://github.com/lucko/spark) | [Modrinth](https://modrinth.com/mod/spark/version/1.10.53-fabric) |
@@ -46,7 +41,6 @@
 | SuperMartijn642's Config Lib | _v.1.1.8a_ | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib) | [Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib/version/1.1.8a-fabric-mc1.20.1) |
 | Durability Tooltip | _v.1.1.5_ | [GitHub](https://github.com/SuperMartijn642/DurabilityTooltip) | [Modrinth](https://modrinth.com/mod/durability-tooltip/version/1.1.5-fabric-mc1.20) |
 | Dark Loading Screen | _v.1.6.14_ | [GitHub](https://github.com/A5b84/dark-loading-screen) | [Modrinth](https://modrinth.com/mod/dark-loading-screen/version/1.6.14) |
-| Noxesium | _v.1.0.3_ | [GitHub](https://github.com/Noxcrew/Noxesium) | [Modrinth](https://modrinth.com/mod/noxesium/version/1.0.3) |
 | Just Enough Resources | _v.1.4.0.247_ | [GitHub](https://github.com/way2muchnoise/JustEnoughResources) | [Modrinth](https://modrinth.com/mod/just-enough-resources-jer/version/9HWvOVzO) |
 | Jade Addons | _v.5.2.6_ | [GitHub](https://github.com/Snownee/JadeAddonsFabric) | [Modrinth](https://modrinth.com/mod/jade-addons-fabric/version/5.2.6) |
 | Status Effect Bars | _v.1.0.3_ | [GitHub](https://github.com/A5b84/status-effect-bars) | [Modrinth](https://modrinth.com/mod/status-effect-bars/version/1.0.3) |
@@ -56,3 +50,18 @@
 | BetterNether | _v.9.0.10_ | [GitHub](https://github.com/quiqueck/BetterNether) | [Modrinth](https://modrinth.com/mod/betternether/version/9.0.10) |
 | Farmer's Delight Refabricated | _v.2.1.6_ | [GitHub](https://github.com/MehVahdJukaar/FarmersDelightRefabricated) | [Modrinth](https://modrinth.com/mod/farmers-delight-refabricated/version/1.20.1-2.1.6) |
 | Expanded Delight | _v.0.3.2_ | [GitHub](https://github.com/ianm1647/expandeddelight) | [Modrinth](https://modrinth.com/mod/expanded-delight/version/0.3.2-fabric) |
+| Ocean's Delight | _v.1.0.2_ | [GitHub](https://github.com/Scouter456/Oceans_Delight) | [Modrinth](https://modrinth.com/mod/oceans-delight/version/fdrf-fabric-1.0.2-1.20) |
+| End's Delight | _v.2.1_ | [GitHub](https://github.com/FoggyHillside/End-s-Delight) | [Modrinth](https://modrinth.com/mod/ends-delight/version/refabricated-1.20.1-2.1) |
+| Ube's Delight | _v.0.2.0_ | [GitHub](https://github.com/ChefMooon/ubes-delight) | [Modrinth](https://modrinth.com/mod/ubes-delight/version/fabric-1.20.1-0.2.0) |
+| Cultural Delights | _v.1.0.5_ | [GitHub](https://github.com/mrsterner/Cultural-Delights-Fabric) | [Modrinth](https://modrinth.com/mod/cultural-delights-fabric/version/1.0.5+1.20.1) |
+| Casualness Delight | _v.0.4_ | [GitHub](https://github.com/TobishiroGinko/Casualness-Delight) | [Modrinth](https://modrinth.com/mod/casualness-delight/version/1.20.1-0.4-FDR) |
+| Brewin' And Chewin | _v.3.0.6_ | [GitHub](https://github.com/mrsterner/BrewinAndChewin-Fabric) | [Modrinth](https://modrinth.com/mod/brewin-and-chewin-fabric/version/3.0.6+1.20.1) |
+| Create Fabric | _v.0.5.1.f_ | [GitHub](https://github.com/Fabricators-of-Create/Create) | [Modrinth](https://modrinth.com/mod/create-fabric/version/0.5.1-f-build.1417+mc1.20.1) |
+| Create: Food | _v.1.1.1_ | [GitHub](https://github.com/AverageAnime/create-food) | [Modrinth](https://modrinth.com/mod/create-food/version/1.1.1) |
+| Nethers Delight | _v.4.1.1_ | [GitHub](https://github.com/DragonsPlusMinecraft/NethersDelightRefabricated) | [Modrinth](https://modrinth.com/mod/nethers-delight-refabricated/version/1.20.1-4.1.1) |
+| Cake Delight | _v.3.0.3_ | [GitHub](https://github.com/xhanhh/CakeDelight-fabric) | [Modrinth](https://modrinth.com/mod/cakedelight/version/1.20.1-v3.0.3) |
+| Pineapple Delight | _v.1.0.11_ | [GitHub](https://github.com/AmarokIce/PineappleDelight) | [Modrinth](https://modrinth.com/mod/pineapple-delight/version/1.0.10) |
+| Barbeque‘s Delight | _v.1.1.0_ | [GitHub](https://github.com/AOMIAOMAO/BarbequesDelight) | [Modrinth](https://modrinth.com/mod/barbeques-delight/version/1.1.0) |
+| Pumpkin Pie Delight | _v.1.0.1_ | [GitHub](https://github.com/Chailotl/pumpkin-pie) | [Modrinth](https://modrinth.com/mod/pumpkin-pie-delight/version/1.0.1) |
+| Corn Delight | _v.1.1.3_ | [GitHub](https://github.com/KreloX/CornDelight) | [Modrinth](https://modrinth.com/mod/corn-delight-fabric/version/1.20.1-1.1.3) |
+| Herbal Delight | _v.1.3_ | [GitHub](https://github.com/Super-McTea/herbal-delight) | [Modrinth](https://modrinth.com/mod/herbal-delight/version/1.3-patch3) |
