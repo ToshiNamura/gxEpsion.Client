@@ -1,6 +1,7 @@
 # gxEpsion Client
-
+![logo](/assets/logo.ico)
 ## Use mods
+<!-- | mod_name | _v.version_ | [GitHub]() | [Modrinth]() | -->
 | Mod name | Version | Source | Download |
 | -------- | ------- | ------ | -------- |
 | Fabric API | _v.0.92.2_ | [GitHub](https://github.com/FabricMC/fabric) | [Modrinth](https://modrinth.com/mod/fabric-api/version/0.92.2+1.20.1) |
@@ -23,3 +24,8 @@
 | Continuity | _v.3.0.0_ | [GitHub](https://github.com/PepperCode1/Continuity) | [Modrinth](https://modrinth.com/mod/continuity/version/3.0.0-beta.5+1.20.1) |
 | LambDynamicLights | _v.2.3.2_ | [GitHub](https://github.com/LambdAurora/LambDynamicLights) | [Modrinth](https://modrinth.com/mod/lambdynamiclights/version/2.3.2+1.20.1) |
 | Just Enough Items | _v.15.16.1.70_ | [GitHub](https://github.com/mezz/JustEnoughItems) | [Modrinth](https://modrinth.com/mod/jei/version/15.16.1.70) |
+| Sound Physics Remastered | _v.1.4.5_ | [GitHub](https://github.com/henkelmax/sound-physics-remastered) | [Modrinth](https://modrinth.com/mod/sound-physics-remastered/version/fabric-1.20.1-1.4.5) |
+| Jade | _v.11.8.0_ | [GitHub](https://github.com/Snownee/Jade) | [Modrinth](https://modrinth.com/mod/jade/version/CciLEAMK) |
+| YetAnotherConfigLib | _v.3.1.0_ | [GitHub](https://github.com/isXander/YetAnotherConfigLib) | [Modrinth](https://modrinth.com/mod/yacl/version/3.1.0+1.20-fabric) |
+| Debugify | _v.2.0_ | [GitHub](https://github.com/isXander/Debugify/) | [Modrinth](https://modrinth.com/mod/debugify/version/1.20.1+2.0) |
+| BetterF3 | _v.7.0.2_ | [GitHub](https://github.com/TreyRuffy/BetterF3) | [Modrinth](https://modrinth.com/mod/betterf3/version/7.0.2) |
