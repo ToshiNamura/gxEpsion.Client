@@ -22,5 +22,44 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				chicken = true
+				bee = true
+				donkey = true
+				cow = true
+				chest_minecart = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				iron_golem = true
+				bat = true
+				zombified_piglin = true
+				piglin = true
+				rabbit = true
+				zombie = true
+				ghast = true
+				sheep = true
+				player = true
+				item = true
+				villager = true
+				salmon = true
+				polar_bear = true
+				strider = true
+				horse = true
+				phantom = true
+				ender_dragon = true
+				glow_squid = true
+				witch = true
 				glow_item_frame = false
+				squid = true
+				spider = true
+				creeper = true
+				enderman = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				hydrogen_jellyfish = true
+				skull = true
+
+			[light_sources.settings.entities.betterend]
+				shadow_walker = true
 
