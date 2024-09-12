@@ -65,3 +65,8 @@
 | Pumpkin Pie Delight | _v.1.0.1_ | [GitHub](https://github.com/Chailotl/pumpkin-pie) | [Modrinth](https://modrinth.com/mod/pumpkin-pie-delight/version/1.0.1) |
 | Corn Delight | _v.1.1.3_ | [GitHub](https://github.com/KreloX/CornDelight) | [Modrinth](https://modrinth.com/mod/corn-delight-fabric/version/1.20.1-1.1.3) |
 | Herbal Delight | _v.1.3_ | [GitHub](https://github.com/Super-McTea/herbal-delight) | [Modrinth](https://modrinth.com/mod/herbal-delight/version/1.3-patch3) |
+| Create Fabric Sodium Fix | _v.0.5.1.d-1161_ | [GitHub](https://github.com/Treetrain1/Create) | [Modrinth](https://modrinth.com/mod/create-fabric-sodium-fix/version/0.5.1-d-build.1161+mc1.20.1) |
+| Create: Steam 'n' Rails | _v.1.6.4_ | [GitHub](https://github.com/Layers-of-Railways/Railway) | [Modrinth](https://modrinth.com/mod/create-steam-n-rails/version/1.6.4+fabric-mc1.20.1) |
+| Create Crafts & Additions | _v.1.2.4_ | [GitHub](https://github.com/mrh0/createaddition) | [Modrinth](https://modrinth.com/mod/createaddition/version/vV4bZmhm) |
+| Create Slice & Dice | _v.3.2.3_ | [GitHub](https://github.com/PssbleTrngle/SliceAndDice) | [Modrinth](https://modrinth.com/mod/slice-and-dice/version/3.2.3) |
+| Fabric Language Kotlin | _v.2.0.20_ | [GitHub](https://github.com/FabricMC/fabric-language-kotlin/) | [Modrinth](https://modrinth.com/mod/fabric-language-kotlin/version/1.12.1+kotlin.2.0.20) |
