@@ -14,6 +14,7 @@
 | Fabric Language Kotlin        | _v.2.0.20_       | [GitHub](https://github.com/FabricMC/fabric-language-kotlin/)                | [Modrinth](https://modrinth.com/mod/fabric-language-kotlin/version/1.12.1+kotlin.2.0.20)          |
 | SuperMartijn642's Config Lib  | _v.1.1.8a_       | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib)       | [Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib/version/1.1.8a-fabric-mc1.20.1)   |
 | SuperMartijn642's Core Lib    | _v.1.1.17a_      | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sCoreLib)         | [Modrinth](https://modrinth.com/mod/supermartijn642s-core-lib/version/1.1.17a-fabric-mc1.20.1)    |
+| Architectury API              | _v.9.2.14_       | [GitHub](https://github.com/architectury/architectury-api)                   | [Modrinth](https://modrinth.com/mod/architectury-api/version/9.2.14+fabric)                       |
 
 </details>
 <details>
@@ -44,6 +45,7 @@
 | Inventory Sorting             | _v.1.9.0_        | [GitHub](https://github.com/kyrptonaught/Inventory-Sorter)                   | [Modrinth](https://modrinth.com/mod/inventory-sorting/version/1.9.0-1.20)                         |
 | Better Ping Display           | _v.1.1.1_        | [GitHub](https://github.com/vladmarica/better-ping-display-fabric)           | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric/version/1.20.1-1.1.1)              |
 | Just Enough Professions       | _v.3.0.1_        | [GitHub](https://github.com/Mrbysco/JustEnoughProfessions)                   | [Modrinth](https://modrinth.com/mod/just-enough-professions-jep/version/3.0.1)                    |
+| Chunky Extension              | _v.2.1.1_        | [GitHub](https://github.com/2Lynk/Chunky-Extended)                           | [Modrinth](https://modrinth.com/mod/chunky-extension/version/2.1.1)                               |
 
 </details>
 <details>
@@ -71,6 +73,9 @@
 | Not Enough Crashes            | _v.4.4.7_        | [GitHub](https://github.com/natanfudge/Not-Enough-Crashes)                   | [Modrinth](https://modrinth.com/mod/notenoughcrashes/version/4.4.7+1.20.1-fabric)                 |
 | Packet Fixer                  | _v.1.4.2_        | [GitHub](https://github.com/TonimatasDEV/PacketFixer)                        | [Modrinth](https://modrinth.com/mod/packet-fixer/version/djNw6g8u)                                |
 | Bad Horse Fix                 | _v.2.0.0_        | [GitHub](https://github.com/HiiJax/Bad-Horse-Fix)                            | [Modrinth](https://modrinth.com/mod/bad-horse-fix/version/2.0.0-fabric)                           |
+| Sodium Extras                 | _v.1.0.1_        | [GitHub](https://github.com/txnimc/SodiumExtras)                             | [Modrinth](https://modrinth.com/mod/sodium-extras/version/xbDvQSi2)                               |
+| FPS Reducer                   | _v.2.5_          | [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/fps-reducer)    | [Modrinth](https://modrinth.com/mod/fps-reducer/version/i4klNdvx)                                 |
+| Iris & Oculus Flywheel Compat | _v.1.1.2_        | [GitHub](https://github.com/leon-o/iris-flw-compat)                          | [Modrinth](https://modrinth.com/mod/iris-flw-compat/version/1.1.2)                                |
 
 </details>
 <details>
@@ -115,6 +120,7 @@
 | Create Fabric Sodium Fix      | _v.0.5.1.d-1161_ | [GitHub](https://github.com/Treetrain1/Create)                               | [Modrinth](https://modrinth.com/mod/create-fabric-sodium-fix/version/0.5.1-d-build.1161+mc1.20.1) |
 | Create Slice & Dice           | _v.3.2.3_        | [GitHub](https://github.com/PssbleTrngle/SliceAndDice)                       | [Modrinth](https://modrinth.com/mod/slice-and-dice/version/3.2.3)                                 |
 | Create: Steam 'n' Rails       | _v.1.6.4_        | [GitHub](https://github.com/Layers-of-Railways/Railway)                      | [Modrinth](https://modrinth.com/mod/create-steam-n-rails/version/1.6.4+fabric-mc1.20.1)           |
+| Create Cobblestone            | _v.1.3.1-36_     | [GitHub](https://github.com/StickyPiston-development/CreateCobblestone)      | [Modrinth](https://modrinth.com/mod/create-cobblestone/version/1.3.1+fabric-1.20.1-36)            |
 
 </details>
 <details>
