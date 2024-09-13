@@ -1,10 +1,10 @@
 # gxEpsion Client
 
 ## Use mods
+<!-- | mod_name | _v._ | [GitHub]() | [Modrinth]() | -->
 <details>
 <summary>Library</summary>
 
-<!-- | mod_name | _v._ | [GitHub]() | [Modrinth]() | -->
 | Mod name                      | Version          | Source                                                                       | Download                                                                                          |
 | :---------------------------- | :--------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | BCLib                         | _v.3.0.14_       | [GitHub](https://github.com/quiqueck/BCLib/)                                 | [Modrinth](https://modrinth.com/mod/bclib/version/3.0.14)                                         |
@@ -19,7 +19,6 @@
 <details>
 <summary>Utility</summary>
 
-<!-- | mod_name | _v._ | [GitHub]() | [Modrinth]() | -->
 | Mod name                      | Version          | Source                                                                       | Download                                                                                          |
 | :---------------------------- | :--------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | AppleSkin                     | _v.2.5.1_        | [GitHub](https://github.com/squeek502/AppleSkin)                             | [Modrinth](https://modrinth.com/mod/appleskin/version/2.5.1+mc1.20)                               |
@@ -42,12 +41,14 @@
 | Reese's Sodium Options        | _v.1.7.2_        | [GitHub](https://github.com/FlashyReese/reeses-sodium-options)               | [Modrinth](https://modrinth.com/mod/reeses-sodium-options/version/mc1.20.1-1.7.2)                 |
 | Shulker Box Tooltip           | _v.4.0.4_        | [GitHub](https://github.com/MisterPeModder/ShulkerBoxTooltip)                | [Modrinth](https://modrinth.com/mod/shulkerboxtooltip/version/4.0.4+1.20.1-fabric)                |
 | Status Effect Bars            | _v.1.0.3_        | [GitHub](https://github.com/A5b84/status-effect-bars)                        | [Modrinth](https://modrinth.com/mod/status-effect-bars/version/1.0.3)                             |
+| Inventory Sorting             | _v.1.9.0_        | [GitHub](https://github.com/kyrptonaught/Inventory-Sorter)                   | [Modrinth](https://modrinth.com/mod/inventory-sorting/version/1.9.0-1.20)                         |
+| Better Ping Display           | _v.1.1.1_        | [GitHub](https://github.com/vladmarica/better-ping-display-fabric)           | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric/version/1.20.1-1.1.1)              |
+| Just Enough Professions       | _v.3.0.1_        | [GitHub](https://github.com/Mrbysco/JustEnoughProfessions)                   | [Modrinth](https://modrinth.com/mod/just-enough-professions-jep/version/3.0.1)                    |
 
 </details>
 <details>
 <summary>Optimization</summary>
 
-<!-- | mod_name | _v._ | [GitHub]() | [Modrinth]() | -->
 | Mod name                      | Version          | Source                                                                       | Download                                                                                          |
 | :---------------------------- | :--------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | BadOptimizations              | _v.2.1.4_        | [GitHub](https://github.com/ItsThosea/BadOptimizations)                      | [Modrinth](https://modrinth.com/mod/badoptimizations/version/GydKiUd0)                            |
@@ -67,12 +68,14 @@
 | Sodium Extra                  | _v.0.5.4_        | [GitHub](https://github.com/FlashyReese/sodium-extra-fabric)                 | [Modrinth](https://modrinth.com/mod/sodium-extra/version/mc1.20.1-0.5.4)                          |
 | spark                         | _v.1.10.53_      | [GitHub](https://github.com/lucko/spark)                                     | [Modrinth](https://modrinth.com/mod/spark/version/1.10.53-fabric)                                 |
 | ToolTipFix                    | _v.1.1.1_        | [GitHub](https://github.com/kyrptonaught/tooltipfix)                         | [Modrinth](https://modrinth.com/mod/tooltipfix/version/1.1.1-1.20)                                |
+| Not Enough Crashes            | _v.4.4.7_        | [GitHub](https://github.com/natanfudge/Not-Enough-Crashes)                   | [Modrinth](https://modrinth.com/mod/notenoughcrashes/version/4.4.7+1.20.1-fabric)                 |
+| Packet Fixer                  | _v.1.4.2_        | [GitHub](https://github.com/TonimatasDEV/PacketFixer)                        | [Modrinth](https://modrinth.com/mod/packet-fixer/version/djNw6g8u)                                |
+| Bad Horse Fix                 | _v.2.0.0_        | [GitHub](https://github.com/HiiJax/Bad-Horse-Fix)                            | [Modrinth](https://modrinth.com/mod/bad-horse-fix/version/2.0.0-fabric)                           |
 
 </details>
 <details>
 <summary>Food</summary>
 
-<!-- | mod_name | _v._ | [GitHub]() | [Modrinth]() | -->
 | Mod name                      | Version          | Source                                                                       | Download                                                                                          |
 | :---------------------------- | :--------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | Barbeque‘s Delight            | _v.1.1.0_        | [GitHub](https://github.com/AOMIAOMAO/BarbequesDelight)                      | [Modrinth](https://modrinth.com/mod/barbeques-delight/version/1.1.0)                              |
@@ -96,7 +99,6 @@
 <details>
 <summary>World Generation</summary>
 
-<!-- | mod_name | _v._ | [GitHub]() | [Modrinth]() | -->
 | Mod name                      | Version          | Source                                                                       | Download                                                                                          |
 | :---------------------------- | :--------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | BetterEnd                     | _v.4.0.11_       | [GitHub](https://github.com/quiqueck/BetterEnd)                              | [Modrinth](https://modrinth.com/mod/betterend/version/4.0.11)                                     |
@@ -106,7 +108,6 @@
 <details>
 <summary>Technology</summary>
 
-<!-- | mod_name | _v._ | [GitHub]() | [Modrinth]() | -->
 | Mod name                      | Version          | Source                                                                       | Download                                                                                          |
 | :---------------------------- | :--------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | Create Crafts & Additions     | _v.1.2.4_        | [GitHub](https://github.com/mrh0/createaddition)                             | [Modrinth](https://modrinth.com/mod/createaddition/version/vV4bZmhm)                              |
@@ -114,5 +115,14 @@
 | Create Fabric Sodium Fix      | _v.0.5.1.d-1161_ | [GitHub](https://github.com/Treetrain1/Create)                               | [Modrinth](https://modrinth.com/mod/create-fabric-sodium-fix/version/0.5.1-d-build.1161+mc1.20.1) |
 | Create Slice & Dice           | _v.3.2.3_        | [GitHub](https://github.com/PssbleTrngle/SliceAndDice)                       | [Modrinth](https://modrinth.com/mod/slice-and-dice/version/3.2.3)                                 |
 | Create: Steam 'n' Rails       | _v.1.6.4_        | [GitHub](https://github.com/Layers-of-Railways/Railway)                      | [Modrinth](https://modrinth.com/mod/create-steam-n-rails/version/1.6.4+fabric-mc1.20.1)           |
+
+</details>
+<details>
+<summary>Decoration</summary>
+
+| Mod name                      | Version          | Source                                                                       | Download                                                                                          |
+| :---------------------------- | :--------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| Fusion                        | _v.1.1.1_        | [GitHub](https://github.com/SuperMartijn642/Fusion)                          | [Modrinth](https://modrinth.com/mod/fusion-connected-textures/version/1.1.1-fabric-mc1.20.1)      |
+| Rechiseled                    | _v.1.1.6_        | [GitHub](https://github.com/SuperMartijn642/Rechiseled)                      | [Modrinth](https://modrinth.com/mod/rechiseled/version/1.1.6-fabric-mc1.20)                       |
 
 </details>

@@ -22,5 +22,21 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				item = true
+				salmon = true
+				chest_minecart = true
+				polar_bear = true
+				pig = true
+				skeleton = true
+				iron_golem = true
+				bat = true
+				rabbit = true
+				zombie = true
+				glow_squid = true
 				glow_item_frame = false
+				squid = true
+				spider = true
+				creeper = true
+				player = true
+				enderman = true
 
