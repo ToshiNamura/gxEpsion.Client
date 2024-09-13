@@ -15,11 +15,15 @@
 
 ###
 /.fabric
+/config
+/defaultconfigs
+/modernfix
 /logs
 /saves
 /data
 /journeymap
 /crash-reports
+/schematics
 
 ### 
 /irisUpdateInfo.json
@@ -27,3 +31,4 @@
 /servers.dat_old
 /usercache.json
 /usernamecache.json
+/start.bat
