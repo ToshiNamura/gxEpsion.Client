@@ -15,6 +15,8 @@
 | SuperMartijn642's Config Lib  | _v.1.1.8a_       | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib)       | [Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib/version/1.1.8a-fabric-mc1.20.1)   |
 | SuperMartijn642's Core Lib    | _v.1.1.17a_      | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sCoreLib)         | [Modrinth](https://modrinth.com/mod/supermartijn642s-core-lib/version/1.1.17a-fabric-mc1.20.1)    |
 | Architectury API              | _v.9.2.14_       | [GitHub](https://github.com/architectury/architectury-api)                   | [Modrinth](https://modrinth.com/mod/architectury-api/version/9.2.14+fabric)                       |
+| Trinkets                      | _v.3.7.2_        | [GitHub](https://github.com/emilyploszaj/trinkets)                           | [Modrinth](https://modrinth.com/mod/trinkets/version/3.7.2)                                       |
+| Patchouli                     | _v.84_           | [GitHub](https://github.com/VazkiiMods/Patchouli/)                           | [Modrinth](https://modrinth.com/mod/patchouli/version/1.20.1-84-fabric)                           |
 
 </details>
 <details>
@@ -46,6 +48,7 @@
 | Better Ping Display           | _v.1.1.1_        | [GitHub](https://github.com/vladmarica/better-ping-display-fabric)           | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric/version/1.20.1-1.1.1)              |
 | Just Enough Professions       | _v.3.0.1_        | [GitHub](https://github.com/Mrbysco/JustEnoughProfessions)                   | [Modrinth](https://modrinth.com/mod/just-enough-professions-jep/version/3.0.1)                    |
 | Chunky Extension              | _v.2.1.1_        | [GitHub](https://github.com/2Lynk/Chunky-Extended)                           | [Modrinth](https://modrinth.com/mod/chunky-extension/version/2.1.1)                               |
+| Better Command Block UI       | _v.0.5.2_        | [GitHub](https://github.com/Tectato/BetterCommandBlockUI)                    | [Modrinth](https://modrinth.com/mod/bettercommandblockui/version/i9cfZYZy)                        |
 
 </details>
 <details>
@@ -121,6 +124,9 @@
 | Create Slice & Dice           | _v.3.2.3_        | [GitHub](https://github.com/PssbleTrngle/SliceAndDice)                       | [Modrinth](https://modrinth.com/mod/slice-and-dice/version/3.2.3)                                 |
 | Create: Steam 'n' Rails       | _v.1.6.4_        | [GitHub](https://github.com/Layers-of-Railways/Railway)                      | [Modrinth](https://modrinth.com/mod/create-steam-n-rails/version/1.6.4+fabric-mc1.20.1)           |
 | Create Cobblestone            | _v.1.3.1-36_     | [GitHub](https://github.com/StickyPiston-development/CreateCobblestone)      | [Modrinth](https://modrinth.com/mod/create-cobblestone/version/1.3.1+fabric-1.20.1-36)            |
+| Industrial Revolution         | _v.1.16.5_       | [GitHub](https://github.com/GabrielOlvH/Industrial-Revolution)               | [Modrinth](https://modrinth.com/mod/industrial-revolution/version/1.16.5-BETA)                    |
+| Applied Energistics 2         | _v.15.2.12_      | [GitHub](https://github.com/AppliedEnergistics/Applied-Energistics-2)        | [Modrinth](https://modrinth.com/mod/ae2/version/15.2.12)                                          |
+| Botania                       | _v.446_          | [GitHub](https://github.com/VazkiiMods/Botania)                              | [Modrinth](https://modrinth.com/mod/botania/version/1.20.1-446-fabric)                            |
 
 </details>
 <details>
