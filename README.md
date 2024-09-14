@@ -79,6 +79,7 @@
 | FPS Reducer                   | _v.2.5_          | [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/fps-reducer)    | [Modrinth](https://modrinth.com/mod/fps-reducer/version/i4klNdvx)                                 |
 | Iris & Oculus Flywheel Compat | _v.1.1.2_        | [GitHub](https://github.com/leon-o/iris-flw-compat)                          | [Modrinth](https://modrinth.com/mod/iris-flw-compat/version/1.1.2)                                |
 | Ksyxis                        | _v.1.3.2_        | [GitHub](https://github.com/VidTu/Ksyxis)                                    | [Modrinth](https://modrinth.com/mod/ksyxis/version/1.3.2)                                         |
+| Create Fabric Sodium Fix      | _v.0.5.1.d-1161_ | [GitHub](https://github.com/Treetrain1/Create)                                     | [Modrinth](https://modrinth.com/mod/create-fabric-sodium-fix/version/0.5.1-d-build.1161+mc1.20.1) |
 
 </details>
 <details>
@@ -91,7 +92,6 @@
 | Cake Delight                  | _v.3.0.3_        | [GitHub](https://github.com/xhanhh/CakeDelight-fabric)                       | [Modrinth](https://modrinth.com/mod/cakedelight/version/1.20.1-v3.0.3)                            |
 | Casualness Delight            | _v.0.4_          | [GitHub](https://github.com/TobishiroGinko/Casualness-Delight)               | [Modrinth](https://modrinth.com/mod/casualness-delight/version/1.20.1-0.4-FDR)                    |
 | Corn Delight                  | _v.1.1.3_        | [GitHub](https://github.com/KreloX/CornDelight)                              | [Modrinth](https://modrinth.com/mod/corn-delight-fabric/version/1.20.1-1.1.3)                     |
-| Create: Food                  | _v.1.1.1_        | [GitHub](https://github.com/AverageAnime/create-food)                        | [Modrinth](https://modrinth.com/mod/create-food/version/1.1.1)                                    |
 | Cultural Delights             | _v.1.0.5_        | [GitHub](https://github.com/mrsterner/Cultural-Delights-Fabric)              | [Modrinth](https://modrinth.com/mod/cultural-delights-fabric/version/1.0.5+1.20.1)                |
 | End's Delight                 | _v.2.1_          | [GitHub](https://github.com/FoggyHillside/End-s-Delight)                     | [Modrinth](https://modrinth.com/mod/ends-delight/version/refabricated-1.20.1-2.1)                 |
 | Expanded Delight              | _v.0.3.2_        | [GitHub](https://github.com/ianm1647/expandeddelight)                        | [Modrinth](https://modrinth.com/mod/expanded-delight/version/0.3.2-fabric)                        |
@@ -101,7 +101,6 @@
 | Ocean's Delight               | _v.1.0.2_        | [GitHub](https://github.com/Scouter456/Oceans_Delight)                       | [Modrinth](https://modrinth.com/mod/oceans-delight/version/fdrf-fabric-1.0.2-1.20)                |
 | Pineapple Delight             | _v.1.0.11_       | [GitHub](https://github.com/AmarokIce/PineappleDelight)                      | [Modrinth](https://modrinth.com/mod/pineapple-delight/version/1.0.10)                             |
 | Pumpkin Pie Delight           | _v.1.0.1_        | [GitHub](https://github.com/Chailotl/pumpkin-pie)                            | [Modrinth](https://modrinth.com/mod/pumpkin-pie-delight/version/1.0.1)                            |
-| Ube's Delight                 | _v.0.2.0_        | [GitHub](https://github.com/ChefMooon/ubes-delight)                          | [Modrinth](https://modrinth.com/mod/ubes-delight/version/fabric-1.20.1-0.2.0)                     |
 
 </details>
 <details>
@@ -120,11 +119,10 @@
 | :---------------------------- | :--------------: | :-------------------------------------------------------------------------------:  | :-----------------------------------------------------------------------------------------------: |
 | Create Crafts & Additions     | _v.1.2.4_        | [GitHub](https://github.com/mrh0/createaddition)                                   | [Modrinth](https://modrinth.com/mod/createaddition/version/vV4bZmhm)                              |
 | Create Fabric                 | _v.0.5.1.f_      | [GitHub](https://github.com/Fabricators-of-Create/Create)                          | [Modrinth](https://modrinth.com/mod/create-fabric/version/0.5.1-f-build.1417+mc1.20.1)            |
-| Create Fabric Sodium Fix      | _v.0.5.1.d-1161_ | [GitHub](https://github.com/Treetrain1/Create)                                     | [Modrinth](https://modrinth.com/mod/create-fabric-sodium-fix/version/0.5.1-d-build.1161+mc1.20.1) |
 | Create Slice & Dice           | _v.3.2.3_        | [GitHub](https://github.com/PssbleTrngle/SliceAndDice)                             | [Modrinth](https://modrinth.com/mod/slice-and-dice/version/3.2.3)                                 |
 | Create: Steam 'n' Rails       | _v.1.6.4_        | [GitHub](https://github.com/Layers-of-Railways/Railway)                            | [Modrinth](https://modrinth.com/mod/create-steam-n-rails/version/1.6.4+fabric-mc1.20.1)           |
 | Create Cobblestone            | _v.1.3.1-36_     | [GitHub](https://github.com/StickyPiston-development/CreateCobblestone)            | [Modrinth](https://modrinth.com/mod/create-cobblestone/version/1.3.1+fabric-1.20.1-36)            |
-| Industrial Revolution         | _v.1.16.5_       | [GitHub](https://github.com/GabrielOlvH/Industrial-Revolution)                     | [Modrinth](https://modrinth.com/mod/industrial-revolution/version/1.16.5-BETA)                    |
+| Industrial Revolution         | _v.1.16.7_       | [GitHub](https://github.com/GabrielOlvH/Industrial-Revolution)                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution/files/5254377)    |
 | Applied Energistics 2         | _v.15.2.12_      | [GitHub](https://github.com/AppliedEnergistics/Applied-Energistics-2)              | [Modrinth](https://modrinth.com/mod/ae2/version/15.2.12)                                          |
 | Botania                       | _v.446_          | [GitHub](https://github.com/VazkiiMods/Botania)                                    | [Modrinth](https://modrinth.com/mod/botania/version/1.20.1-446-fabric)                            |
 | Create Deco                   | _v.2.0.2_        | [GitHub](https://github.com/talrey/CreateDeco)                                     | [Modrinth](https://modrinth.com/mod/create-deco/version/2.0.2-1.20.1-fabric)                      |
